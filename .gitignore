@@ -1,6 +1,7 @@
 /.ddev
 # Ignore binaries.
 /bin
+/node_modules
 
 # Ignore non-custom parts of Drupal.
 /web/core
